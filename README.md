@@ -5,5 +5,4 @@
     <p>Demand and Supply analysis means analyzing the relationship between the quantity demanded and the quantity supplied. It
     helps businesses understand the factors influencing consumer demand to maximize profits.</p>
     <br>
-    <br>
     <img src="https://tse2.mm.bing.net/th?id=OIP.jGZDmmZBUTDTFdhFdRuEZwHaDu&pid=Api&P=0&h=180" alt="Demand and Supply">
